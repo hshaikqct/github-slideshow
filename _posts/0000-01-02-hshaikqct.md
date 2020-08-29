@@ -2,5 +2,5 @@ ___
 layout:slide
 title: "welcome to our second slide!"
 ___
-your test
+your test - hello
 use the left arrow to go back!
